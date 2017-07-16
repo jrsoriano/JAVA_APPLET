@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RegPanel()
+comment0.text=\r\n\ constructor\r\n
+comment1.params=
+comment1.target=javax.swing.JPanel\ buildRegistrantPanel()
+comment2.params=
+comment2.target=javax.swing.JPanel\ buildDinnerKeynotePanel()
+comment3.params=
+comment3.target=double\ getRegistrantionCost()
+comment3.text=\r\n\ methods\ \r\n
+comment4.params=
+comment4.target=double\ getKeyNoteCost()
+comment5.params=
+comment5.target=java.lang.String\ getRegType()
+numComments=6

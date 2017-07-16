@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=gui
+comment0.target=ConferenceHandler(ConferenceGUI)
+comment0.text=\r\n\ constructor\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ action\ listener\ method\r\n
+comment2.params=i
+comment2.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment2.text=\r\n\ item\ listener\ method\r\n
+comment3.params=f
+comment3.target=void\ focusLost(java.awt.event.FocusEvent)
+comment3.text=\r\n\ focus\ listener\ method\ \r\n
+comment4.params=f
+comment4.target=void\ focusGained(java.awt.event.FocusEvent)
+numComments=5

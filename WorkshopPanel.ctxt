@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WorkshopPanel()
+comment0.text=\r\n\ constructor\r\n
+comment1.params=
+comment1.target=double\ getWorkshopCost()
+comment1.text=\r\n\ methods\r\n
+comment2.params=
+comment2.target=java.lang.String[]\ getWorkshopList()
+numComments=3
